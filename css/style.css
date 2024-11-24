@@ -109,7 +109,7 @@ ul.nav-bar li a:hover {
 /* this is where I styled the items in the container */
 
 .grid-item-content-info {
-    background: linear-gradient(rgba(255, 255, 255, .7), rgba(255, 255, 255, .5)), url(css/dragon.png) no-repeat center;
+    background: linear-gradient(rgba(255, 255, 255, .7), rgba(255, 255, 255, .5)), url(../css/dragon.png) no-repeat center;
     background-size: cover;
     padding: 20px;
     text-align: center;
@@ -211,7 +211,7 @@ ul.nav-bar li a:hover {
 
 .item-experience:hover {
     animation: MoveUpDown 2s linear alternate infinite;
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6)), url(css/dragon.png) no-repeat center;
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.6)), url(../css/dragon.png) no-repeat center;
     border-radius: 10%;
 }
 
